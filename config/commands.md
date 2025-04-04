@@ -16,3 +16,5 @@ sudo apt install docker.io
 sudo systemctl start docker
 sudo systemctl enable docker
 ```
+
+* https://gist.github.com/lalocespedes/08ca6696749ef5cee75c80ab273ddd1f
